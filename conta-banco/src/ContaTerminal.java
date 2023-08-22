@@ -3,7 +3,7 @@ import java.util.Locale;
 
 public class ContaTerminal {
     public static void main(String[] args) {
-        //TODO  Conhecer e importar a classe 
+        //TO DO  Conhecer e importar a classe 
 
         //Exibir as mensagens para o nosso usuário
 
